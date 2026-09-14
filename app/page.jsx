@@ -105,6 +105,10 @@ export default function Home() {
       content: "The AI is remarkably good at mimicking real interviewers. The pressure simulation helped me stay calm during actual interviews.",
       rating: 5,
     },
+
+
+
+    //pranavs
   ]
 
   return (
